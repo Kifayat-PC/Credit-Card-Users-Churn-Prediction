@@ -2,9 +2,9 @@
 
 ## 🧠 Project Overview
 
-This project addresses the problem of **customer attrition** for **Thera Bank's credit card division**. With increasing competition in the financial sector, Thera Bank needed a predictive system to identify customers at risk of leaving and reduce churn through strategic interventions.
+This project focuses on predicting customer churn for Thera Bank’s credit card services. Credit cards are a significant revenue stream for banks through fees such as annual charges, balance transfers, and late payments. A recent drop in credit card usage has raised concerns at Thera Bank, prompting a need to identify why customers are leaving and how to proactively retain them.
 
-As a Data Scientist, I conducted detailed **exploratory data analysis**, built **machine learning models**, and derived **business insights** to support retention strategies.
+The goal of this project is to analyze historical customer data and build a predictive model that can accurately classify whether a customer is likely to churn (i.e., close their credit card account). In addition to modeling, the project aims to surface insights into key factors influencing churn behavior and offer data-driven recommendations to improve customer satisfaction and retention.
 
 > ⚠️ **Note:** The dataset is **confidential** and cannot be shared publicly due to privacy agreements.
 
@@ -18,6 +18,31 @@ As a Data Scientist, I conducted detailed **exploratory data analysis**, built *
 - Recommend data-driven strategies to reduce churn
 
 ---
+
+## 🔧 End-to-End Workflow
+
+As part of this comprehensive data science solution, I executed the following key steps:
+
+- 📊 **Exploratory Data Analysis (EDA):**  
+  Conducted in-depth analysis to reveal behavioral and demographic patterns associated with churn.
+
+- 🧹 **Data Preprocessing & Feature Engineering:**  
+  Cleaned, transformed, and engineered features to ensure data quality and enhance model performance.
+
+- 🤖 **Model Implementation & Comparison:**  
+  Built and evaluated multiple classification models including **Random Forest** and **XGBoost** to predict customer churn.
+
+- 🎯 **Hyperparameter Tuning:**  
+  Optimized model performance using **GridSearchCV**, ensuring robustness and generalizability.
+
+- 📈 **Model Interpretation:**  
+  Identified top churn indicators by analyzing feature importance and model outputs.
+
+- 💡 **Business Recommendations:**  
+  Provided actionable strategies to improve customer retention based on data-driven insights.
+
+> ⚠️ **Note:** The dataset used in this project is **confidential** and cannot be shared publicly due to data protection agreements.
+
 
 ## 🛠️ Tools & Techniques
 
